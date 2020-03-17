@@ -1,2 +1,2 @@
-# java
-Some Java problems
+# Java
+Some Java problems form HackerRank
